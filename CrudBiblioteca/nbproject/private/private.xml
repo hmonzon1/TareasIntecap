@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/vista/FormularioInicio.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/vista/ConsultasF.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/modelo/ConsultasVO.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/modelo/ConsultasDAO.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/modelo/AutorDAO.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/main/Principal.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/vista/FormularioPrincipal.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/controlador/ControladorInicio.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/controlador/ControladorAutor.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/vista/AutorF.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/controlador/ControladorLibros.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/modelo/Conector.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/modelo/LibrosDAO.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/controlador/ControladorConsultas.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/modelo/LibrosVO.java</file>
+            <file>file:/C:/Users/laptop/Documents/NetBeansProjects/CrudBiblioteca/src/vista/LibroF.java</file>
+        </group>
+    </open-files>
+</project-private>
